@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pixel.github.io/static/css/main.e5a98be6.css",
+    "main.js": "/pixel.github.io/static/js/main.b3133033.js",
+    "static/js/787.d9022030.chunk.js": "/pixel.github.io/static/js/787.d9022030.chunk.js",
+    "static/media/icecream.png": "/pixel.github.io/static/media/icecream.ec730979de11702e406a.png",
+    "index.html": "/pixel.github.io/index.html",
+    "main.e5a98be6.css.map": "/pixel.github.io/static/css/main.e5a98be6.css.map",
+    "main.b3133033.js.map": "/pixel.github.io/static/js/main.b3133033.js.map",
+    "787.d9022030.chunk.js.map": "/pixel.github.io/static/js/787.d9022030.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5a98be6.css",
+    "static/js/main.b3133033.js"
+  ]
+}
