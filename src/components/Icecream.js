@@ -4,9 +4,8 @@ import './Icecream.css';
 
 function Icecream() {
   return (
-    <div className="App">
+    <div className="main-icecream">
         <img src={icecream} className="App-logo" alt="logo" />
-        Andriy best os the best!
     </div>
   );
 }

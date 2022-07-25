@@ -1,13 +1,14 @@
 import Icecream from '../src/components/Icecream'
 import Shapes from './components/shapes/shapes';
 import './App.css';
+import Loader from './components/loader/loader';
 
 function App() {
   return (
     <div className="App">
-        hello world!!!!!!!!
         <Icecream/>
         <Shapes/>
+        <Loader/>
     </div>
   );
 }
