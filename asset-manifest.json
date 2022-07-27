@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/pixel.github.io/static/css/main.882a512f.css",
+    "main.css": "/pixel.github.io/static/css/main.e4cc8ac7.css",
     "main.js": "/pixel.github.io/static/js/main.7db9e3d2.js",
     "static/js/232.2c43f85f.chunk.js": "/pixel.github.io/static/js/232.2c43f85f.chunk.js",
     "static/js/787.d9022030.chunk.js": "/pixel.github.io/static/js/787.d9022030.chunk.js",
     "static/media/icecream.png": "/pixel.github.io/static/media/icecream.ec730979de11702e406a.png",
     "index.html": "/pixel.github.io/index.html",
-    "main.882a512f.css.map": "/pixel.github.io/static/css/main.882a512f.css.map",
+    "main.e4cc8ac7.css.map": "/pixel.github.io/static/css/main.e4cc8ac7.css.map",
     "main.7db9e3d2.js.map": "/pixel.github.io/static/js/main.7db9e3d2.js.map",
     "232.2c43f85f.chunk.js.map": "/pixel.github.io/static/js/232.2c43f85f.chunk.js.map",
     "787.d9022030.chunk.js.map": "/pixel.github.io/static/js/787.d9022030.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.882a512f.css",
+    "static/css/main.e4cc8ac7.css",
     "static/js/main.7db9e3d2.js"
   ]
 }
