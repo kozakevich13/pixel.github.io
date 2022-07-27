@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://kozakevich13.github.io/pixel.github.io/",
   "dependencies": {
+    "@splinetool/react-spline": "^2.2.1",
+    "@splinetool/runtime": "^0.9.84",
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
     "@testing-library/user-event": "^13.5.0",

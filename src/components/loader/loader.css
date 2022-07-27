@@ -7,13 +7,13 @@ html {
   *:before, *:after {
     box-sizing: border-box;
   }
-  body {
+  /* body {
     min-height: 100vh;
     background: #ebc5c5;
     display: flex;
     justify-content: center;
     align-items: center;
-  }
+  } */
   .main-box-loaders {
     margin: 50px;
     border-radius: 10px;
